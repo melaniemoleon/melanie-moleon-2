@@ -28,10 +28,6 @@ footer p {
   font-size: 0.9rem;
 }
 
-.hero-img {
-  object-fit: cover;
-}
-
 h3 {
   font-size: 1.8rem;
   color: var(--bs-primary);
